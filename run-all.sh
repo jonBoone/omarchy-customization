@@ -25,13 +25,14 @@
 # update dotfiles
 ./install-dotfiles.sh
 ./install-hyprland-overrides.sh
-
+:
 # symlink vscode settings (after dotfiles are cloned)
 ./symlink-vscode.sh
 ./symlink-vscode-insiders.sh
 
-# uninstall unwanted programs
+# uninstall unwanted programs and webapps
 ./uninstall-unwanted-programs.sh
+./uninstall-unwanted-webapps.sh
 
 # change shell to fish
 ./change-shell.sh
