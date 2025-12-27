@@ -7,7 +7,6 @@
 ./install-mise.sh
 
 # install all packages in order
-./install-fish.sh
 ./install-nodejs.sh
 ./install-pnpm.sh
 ./install-bun.sh
