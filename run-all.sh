@@ -11,12 +11,25 @@
 ./install-pnpm.sh
 ./install-bun.sh
 ./install-gemini-cli.sh
+./install-cursor-cli.sh
+./install-cursor.sh
 ./install-opencode.sh
 ./install-mariadb-clients.sh
 ./install-vscode.sh
 ./install-vscode-insiders.sh
 ./install-antigravity.sh
 ./install-zed.sh
+./install-zed-preview.sh
+./install-agent-browser.sh
+./install-android-studio.sh
+./install-claude-code.sh
+./install-direnv.sh
+./install-google-chrome.sh
+./install-helium-browser.sh
+./install-kimi-code.sh
+./install-t3-code.sh
+./install-pencil.sh
+./install-uv.sh
 
 # install stow for dotfiles management
 ./install-stow.sh
